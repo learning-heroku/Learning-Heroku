@@ -14,6 +14,10 @@ AT&T
 > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
 > Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
+Code:
+
+    code
+	
 Bullet list:
 
 * Red
@@ -25,8 +29,7 @@ Numbered list:
 1. This is the first list item
 2. This is the second list item
 
-``` code
-```
+        code
     
 Use the `printf()` function.
 
