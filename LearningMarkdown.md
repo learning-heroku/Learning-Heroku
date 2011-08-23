@@ -6,13 +6,15 @@ AT&T
 
 4 < 5
 
+john.doe@acme.com
+
 # H1 title
 ## H2 title
 ### H3 title
 
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+Block quote:
+
+> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
 Code:
 
