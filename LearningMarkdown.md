@@ -38,9 +38,9 @@ This is [an example](http://example.com/ "Title") inline link.
 
 [This link](http://example.net/) has no title attribute.
     
-![Alt text](/path/to/img.jpg)
+![Alt text](http://www.google.com/logos/2011/granados11-hp.jpg)
 
-![Alt text](/path/to/img.jpg "Optional title")
+![Alt text](http://www.google.com/logos/2011/granados11-hp.jpg "Optional title")
 
 <table>
     <tr>
