@@ -7,7 +7,7 @@ AT&T
 4 < 5
 
 john.doe@acme.com
-
+	
 # H1 title
 ## H2 title
 ### H3 title
@@ -19,6 +19,12 @@ Block quote:
 Code:
 
     code
+	
+``` ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 	
 Bullet list:
 
